@@ -1,3 +1,4 @@
+#!/bin/ruby
 require 'slop'
 require 'net/ssh'
 $banner="                  ▄▄  ▄▄▄▄▄▄▄▄                                ▄▄        ▄▄
